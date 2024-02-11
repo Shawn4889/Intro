@@ -9,7 +9,7 @@ I also hold my master’s degree in Geospatial Information Sciences and my bache
 
 ◾ 8+ years of experience in remote sensing data (optical, hyperspectral, LiDAR, SAR, etc.) processing and analysis, especially large-scale (terabyte) multi-dimensional datasets (NetCDF, HDF5, etc.).
 
-◾ 6+ years of experience in multiple programming languages and geospatial software, including Python, R, MATLAB, SQL, ArcGIS products (ArcMap, ArcGIS Pro), QGIS, ENVI, ERDAS, eCognition, LAStools, CloudCompare, Global Mapper.
+◾ 6+ years of experience in multiple programming languages and geospatial software, including Python (advanced), R (advanced), MATLAB, SQL, ArcGIS products (ArcMap, ArcGIS Pro), QGIS, ENVI, ERDAS, eCognition, LAStools, CloudCompare, Global Mapper.
 
 ◾ 6+ years of experience in quantitative analysis, predictive modeling and machine learning.          
 
