@@ -23,5 +23,11 @@ I also hold my master’s degree in Geospatial Information Sciences and my bache
 
 ◾ Excellent communication and writing skills and demonstrated track record of publications and presentations (two publications in Remote Sensing of Environment).
 
+# Links:
+
+Linkedin: https://www.linkedin.com/in/shawn4889/
+
 You may find my CV and Resume attached, and please reach out to me at dawn4889@gmail.com, thanks!
+
+
 
